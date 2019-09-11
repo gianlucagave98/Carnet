@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_foto_height">400dp</dimen>
+    <dimen name="main_logo">50sp</dimen>
+    <dimen name="fullname_textsize">40sp</dimen>
+    <dimen name="role_mainSize">30sp</dimen>
+</resources>
